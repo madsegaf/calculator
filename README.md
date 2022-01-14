@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://madsegaf440156.visualstudio.com/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/madsegaf.calculator?branchName=master)](https://madsegaf440156.visualstudio.com/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=master)
